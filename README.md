@@ -22,6 +22,7 @@ A modern cryptocurrency dashboard built with React and Tailwind CSS.
 
 ## 🌐 Live Demo
 
+https://crypto-dashboard-mario.netlify.app/
 
 ## ⚙ Installation
 
