@@ -25,7 +25,8 @@ A modern cryptocurrency dashboard built with React and Tailwind CSS.
 
 ## ⚙ Installation
 
-npm install
-npm run dev
+- git clone https://github.com/MarioOrozcoM/crypto_dashboard.git
+- npm install
+- npm run dev
 
 Developed By: Mario Daniel Orozco Muñoz
