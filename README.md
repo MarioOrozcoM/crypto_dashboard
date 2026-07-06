@@ -20,14 +20,30 @@ A modern cryptocurrency dashboard built with React and Tailwind CSS.
 - Tailwind CSS
 - CoinGecko API
 
+## 🔌 API
+
+Data provided by:
+- CoinGecko API
+
 ## 🌐 Live Demo
 
 https://crypto-dashboard-mario.netlify.app/
 
 ## ⚙ Installation
 
-- git clone https://github.com/MarioOrozcoM/crypto_dashboard.git
-- npm install
-- npm run dev
+```bash
+git clone https://github.com/MarioOrozcoM/crypto_dashboard.git
 
-Developed By: Mario Daniel Orozco Muñoz
+cd crypto_dashboard
+
+npm install
+
+npm run dev
+```
+
+## 👨‍💻 Author
+
+Mario Daniel Orozco Muñoz
+
+GitHub:
+https://github.com/MarioOrozcoM
