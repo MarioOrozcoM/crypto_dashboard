@@ -3,7 +3,7 @@
 A modern cryptocurrency dashboard built with React and Tailwind CSS.
 
 ## 📸 Preview
-![Preview](.github/screenshot.png)
+![Preview](dashboard_cripto/.github/screenshot.png)
 
 ## ✨ Features
 
